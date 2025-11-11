@@ -1,0 +1,4 @@
+﻿  BFS for Shortest Distances.cpp
+C:\Users\workstation\OneDrive\Desktop\Problem_Solving_PW\Graph\BFS for Shortest Distances\BFS for Shortest Distances\BFS for Shortest Distances.cpp(7,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\workstation\OneDrive\Desktop\Problem_Solving_PW\Graph\BFS for Shortest Distances\BFS for Shortest Distances\BFS for Shortest Distances.cpp(9,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  BFS for Shortest Distances.vcxproj -> C:\Users\workstation\OneDrive\Desktop\Problem_Solving_PW\Graph\BFS for Shortest Distances\x64\Debug\BFS for Shortest Distances.exe
